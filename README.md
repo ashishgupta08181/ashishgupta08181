@@ -1,7 +1,7 @@
 ### Hi there, I'm Ashish Gupta 👋
 
 
-  <a title="ashishgupta08181@gmail.com" href="ashishgupta08181@gmail.com">
+  <a title="ashishgupta08181@gmail.com" href="mailto:ashishgupta08181@gmail.com">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
       alt="ashishgupta08181@gmail.com" />
   </a>
