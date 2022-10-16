@@ -5,7 +5,7 @@
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
       alt="ashishgupta08181@gmail.com" />
   </a>
-  <a href="www.linkedin.com/in/ashish-gupta081">
+  <a href="https://www.linkedin.com/in/ashish-gupta081/">
     <img align="center"
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="https://www.linkedin.com/in/jatin-khatter-7b7166217/"/>
